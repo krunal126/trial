@@ -1,9 +1,9 @@
-import QtQuick 2.15
-import QtQuick.Window 2.15
+import QtQuick 2.11
+import QtQuick.Window 2.11
 
 Window {
-    width: 1280
-    height: 400
+    width: 400
+    height: 1280
     visible: true
     title: qsTr("Hello World")
 
